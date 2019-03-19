@@ -1,0 +1,19 @@
+{
+  "name": "dollui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq953484732/dollui.git"
+  },
+  "author": "doll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qq953484732/dollui/issues"
+  },
+  "homepage": "https://github.com/qq953484732/dollui#readme"
+}
